@@ -1,0 +1,65 @@
+{
+ "run": "2026-11-16T00:40+01:00",
+ "sources": [
+  {
+   "source": "Enebakk kommune",
+   "ok": false,
+   "error": "HTTPError: 400 Client Error: Bad Request for url: https://prod01.elementscloud.no/publikum/api/PredefinedQuery/CasesAndRegistryEntries?Query=&OrderBy=DATE&SortOrder=1&DateFrom=2026-10-17&DateTo=2026-10-17&IncludeCases=false&IncludeCaseWorker=false&IncludeSenderRecipient=true&Skips=%5B%5D",
+   "seconds": 0
+  },
+  {
+   "source": "Nordre Follo kommune",
+   "ok": true,
+   "items": 29,
+   "notes": [],
+   "seconds": 301
+  },
+  {
+   "source": "Rælingen kommune",
+   "ok": false,
+   "error": "HTTPError: 400 Client Error: Bad Request for url: https://prod01.elementscloud.no/publikum/api/PredefinedQuery/CasesAndRegistryEntries?Query=Enebakk&OrderBy=DATE&SortOrder=1&DateFrom=2026-10-17&DateTo=2026-11-16&IncludeCases=false&IncludeCaseWorker=false&IncludeSenderRecipient=true&Skips=%5B%5D",
+   "seconds": 0
+  },
+  {
+   "source": "Ås kommune",
+   "ok": true,
+   "items": 3,
+   "notes": [],
+   "seconds": 77
+  },
+  {
+   "source": "Frogn kommune",
+   "ok": true,
+   "items": 6,
+   "notes": [],
+   "seconds": 65
+  },
+  {
+   "source": "Nesodden kommune",
+   "ok": false,
+   "error": "HTTPError: 400 Client Error: Bad Request for url: https://prod02.elementscloud.no/publikum/api/PredefinedQuery/CasesAndRegistryEntries?Query=Enebakk&OrderBy=DATE&SortOrder=1&DateFrom=2026-10-17&DateTo=2026-11-16&IncludeCases=false&IncludeCaseWorker=false&IncludeSenderRecipient=true&Skips=%5B%5D",
+   "seconds": 0
+  },
+  {
+   "source": "Vestby kommune",
+   "ok": true,
+   "items": 0,
+   "notes": [],
+   "seconds": 60
+  },
+  {
+   "source": "eInnsyn",
+   "ok": true,
+   "items": 784,
+   "notes": [],
+   "seconds": 74
+  },
+  {
+   "source": "Stortinget",
+   "ok": true,
+   "items": 1,
+   "notes": [],
+   "seconds": 7
+  }
+ ]
+}
