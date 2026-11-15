@@ -1,0 +1,118 @@
+# Postliste-radar for Enebakk – konfigurasjon
+# Endre søkeord og kilder her. Endringer trer i kraft ved neste kjøring
+# (hver natt, eller manuelt via Actions → «Nattlig innhenting» → Run workflow).
+
+settings:
+  lookback_days: 30        # hvor langt tilbake det søkes hver natt
+  enebakk_full_days: 7     # hele Enebakk-postlisten vises for siste N dager
+  keep_days: 180           # hvor lenge historikk lagres i data/items.json
+  relevance_halflife_days: 7
+
+# scope:
+#   all      = søkes i alle kilder (kommuner, eInnsyn, Stortinget)
+#   regional = søkes kun i kommunenes postlister (for brede ord som gir støy nasjonalt)
+#   enebakk  = brukes kun til å fremheve poster i Enebakks egen postliste
+# group: brukes til fargekoding og fokusbokser på siden
+keywords:
+  # --- Enebakk nevnt (vises eksplisitt når treffet er i andre lister enn Enebakks) ---
+  - {term: "Enebakk",        weight: 5, scope: all, group: enebakk}
+  - {term: "Flateby",        weight: 4, scope: all, group: enebakk}
+  - {term: "Kirkebygda",     weight: 4, scope: regional, group: enebakk}
+  - {term: "Mjær",           weight: 3, scope: regional, group: enebakk}
+  - {term: "Leiknes",        weight: 5, scope: all, group: enebakk}
+
+  # --- Fokus: Østmarka nasjonalpark og nasjonalparksenter ---
+  - {term: "Østmarka",           weight: 7, scope: all, group: ostmarka}
+  - {term: "nasjonalparksenter", weight: 7, scope: all, group: ostmarka}
+  - {term: "besøkssenter",       weight: 5, scope: all, group: ostmarka}
+  - {term: "nasjonalparkstyre",  weight: 5, scope: all, group: ostmarka}
+  - {term: "nasjonalparkkommune", weight: 4, scope: all, group: ostmarka}
+  - {term: "nasjonalpark",       weight: 3, scope: regional, group: ostmarka}
+  - {term: "verneområdestyre",   weight: 3, scope: regional, group: ostmarka}
+
+  # --- Øyeren og vann ---
+  - {term: "Øyeren",              weight: 4, scope: all, group: region}
+  - {term: "vannområde",          weight: 2, scope: regional, group: region}
+
+  # --- Interkommunalt samarbeid ---
+  - {term: "Follo brannvesen",    weight: 4, scope: all, group: region}
+  - {term: "Romerike krisesenter", weight: 4, scope: all, group: region}
+  - {term: "ROAF",                weight: 3, scope: all, group: region}
+  - {term: "Romerike avfallsforedling", weight: 3, scope: all, group: region}
+  - {term: "Folloregionen",       weight: 4, scope: all, group: region}
+  - {term: "Follorådet",          weight: 4, scope: all, group: region}
+  - {term: "interkommunalt politisk råd", weight: 3, scope: regional, group: region}
+
+  # --- NND / vertskommune for atomavfall ---
+  - {term: "Norsk nukleær dekommisjonering", weight: 4, scope: all, group: nnd}
+  - {term: "atomavfall",          weight: 4, scope: all, group: nnd}
+  - {term: "radioaktivt avfall",  weight: 4, scope: all, group: nnd}
+
+  # --- Samferdsel ---
+  - {term: "Fv. 120",             weight: 3, scope: all, group: region}
+  - {term: "fylkesvei 120",       weight: 3, scope: all, group: region}
+  - {term: "Enebakkveien",        weight: 2, scope: regional, group: region}
+
+  # --- Kun fremheving i Enebakks egen postliste ---
+  - {term: "kommuneplanens arealdel", weight: 4, scope: enebakk, group: sak}
+  - {term: "arealdel",            weight: 2, scope: enebakk, group: sak}
+  - {term: "sykehjem",            weight: 3, scope: enebakk, group: sak}
+  - {term: "Flatebyhallen",       weight: 3, scope: enebakk, group: sak}
+  - {term: "budsjett",            weight: 2, scope: enebakk, group: sak}
+  - {term: "handlingsprogram",    weight: 2, scope: enebakk, group: sak}
+  - {term: "beredskap",           weight: 2, scope: enebakk, group: sak}
+  - {term: "innsyn",              weight: 2, scope: enebakk, group: presse}
+  - {term: "Romerikes Blad",      weight: 2, scope: enebakk, group: presse}
+  - {term: "Enebakk Avis",        weight: 2, scope: enebakk, group: presse}
+  - {term: "Østlandets Blad",     weight: 2, scope: enebakk, group: presse}
+  - {term: "Statsforvalteren",    weight: 1, scope: enebakk, group: sak}
+  - {term: "Miljødirektoratet",   weight: 2, scope: enebakk, group: sak}
+
+# Poster med tittel som matcher disse (regex, store/små bokstaver ignoreres) fjernes som støy
+exclude_patterns:
+  - "eiendomsdokument"
+  - "^Bestillingsbekreftelse"
+  - "Ferdigbehandlet bestilling"
+
+sources:
+  - id: enebakk
+    label: "Enebakk kommune"
+    type: elements
+    base: "https://prod01.elementscloud.no"
+    tenant: "964949581"
+    primary: true
+  - id: nordrefollo
+    label: "Nordre Follo kommune"
+    type: p360
+    base: "https://nordre-follo.pj.360online.com"
+  - id: ralingen
+    label: "Rælingen kommune"
+    type: elements
+    base: "https://prod01.elementscloud.no"
+    tenant: "952540556"
+  - id: as
+    label: "Ås kommune"
+    type: p360
+    base: "https://as.pj.360online.com"
+  - id: frogn
+    label: "Frogn kommune"
+    type: p360
+    base: "https://frogn.pj.360online.com"
+  - id: nesodden
+    label: "Nesodden kommune"
+    type: elements
+    base: "https://prod02.elementscloud.no"
+    tenant: "944383565_PROD-944383565"
+  - id: vestby
+    label: "Vestby kommune"
+    type: p360
+    base: "https://vestby.pj.360online.com"
+  # eInnsyn deles automatisk opp i: Akershus fylkeskommune, Statsforvalteren,
+  # Regjeringen/departementer og Andre statlige virksomheter
+  - id: einnsyn
+    label: "eInnsyn"
+    type: einnsyn
+    exclude_orgnr: ["964949581"]   # Enebakk hentes direkte
+  - id: stortinget
+    label: "Stortinget"
+    type: stortinget
