@@ -1,0 +1,24 @@
+name: Diagnose
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/debug.yml"]
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install requests
+      - shell: python
+        run: |
+          import requests
+          B="https://prod01.elementscloud.no/publikum/api/PredefinedQuery/CasesAndRegistryEntries"
+          q="Query=Enebakk&OrderBy=DATE&SortOrder=1&DateFrom=2026-11-01&DateTo=2026-11-15&IncludeCases=false&IncludeCaseWorker=false&IncludeSenderRecipient=true"
+          H={"Tenant":"964949581","Accept":"application/json"}
+          for name,url,h in [("skips_raw",B+"?"+q+"&Skips=[]",H),("skips_enc",B+"?"+q+"&Skips=%5B%5D",H),("noskips",B+"?"+q,H),("config",B.replace("PredefinedQuery/CasesAndRegistryEntries","ConfigProvider/GetConfigs"),H),("page","https://prod01.elementscloud.no/publikum/964949581/",{})]:
+              try:
+                  r=requests.get(url,headers=h,timeout=30)
+                  print(name, r.status_code, dict(r.headers).get("Server"), dict(r.headers).get("Content-Type"), repr(r.text[:150]))
+                  print("   sent url:", r.request.url[:200])
+              except Exception as e: print(name,"ERR",e)
+      - run: |
+          curl -s -o /dev/null -w "curl %{http_code}\n" -H "Tenant: 964949581" -H "Accept: application/json" "https://prod01.elementscloud.no/publikum/api/PredefinedQuery/CasesAndRegistryEntries?Query=Enebakk&OrderBy=DATE&SortOrder=1&DateFrom=2026-11-01&DateTo=2026-11-15&IncludeCases=false&IncludeCaseWorker=false&IncludeSenderRecipient=true&Skips=%5B%5D"
