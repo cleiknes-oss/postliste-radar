@@ -22,11 +22,14 @@ keywords:
   - {term: "Leiknes",        weight: 5, scope: all, group: enebakk}
 
   # --- Fokus: Østmarka nasjonalpark og nasjonalparksenter ---
-  - {term: "Østmarka",           weight: 7, scope: all, group: ostmarka}
+  # term med + krever at alle ordene finnes i posten
+  - {term: "Østmarka+nasjonalpark", weight: 9, scope: all, group: ostmarka}
+  - {term: "Østmarka",           weight: 4, scope: all, group: ostmarka}
   - {term: "nasjonalparksenter", weight: 7, scope: all, group: ostmarka}
-  - {term: "besøkssenter",       weight: 5, scope: all, group: ostmarka}
-  - {term: "nasjonalparkstyre",  weight: 5, scope: all, group: ostmarka}
-  - {term: "nasjonalparkkommune", weight: 4, scope: all, group: ostmarka}
+  - {term: "besøkssenter+nasjonalpark", weight: 6, scope: all, group: ostmarka}
+  - {term: "besøkssenter",       weight: 3, scope: regional, group: ostmarka}
+  - {term: "nasjonalparkstyre",  weight: 5, scope: regional, group: ostmarka}
+  - {term: "nasjonalparkkommune", weight: 4, scope: regional, group: ostmarka}
   - {term: "nasjonalpark",       weight: 3, scope: regional, group: ostmarka}
   - {term: "verneområdestyre",   weight: 3, scope: regional, group: ostmarka}
 

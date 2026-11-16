@@ -50,13 +50,17 @@ def norm(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "")).strip().lower()
 
 
+def query_of(term: str) -> str:
+    return term.replace("+", " ")
+
+
 def match_terms(text: str, keywords: list[dict]) -> list[str]:
     t = norm(text)
     hits = []
     for k in keywords:
-        term = norm(k["term"])
+        parts = [norm(p) for p in k["term"].split("+")]
         # ordgrense i starten, fri slutt (fanger bøyninger: Østmarka, Østmarkas …)
-        if re.search(r"(?<![\wæøå])" + re.escape(term), t):
+        if all(re.search(r"(?<![\wæøå])" + re.escape(p), t) for p in parts):
             hits.append(k["term"])
     return hits
 
@@ -80,8 +84,13 @@ def elements_query(src, query, dfrom, dto):
         })
         + "&Skips=[]"
     )
-    r = get(url, headers={"Tenant": src["tenant"], "Accept": "application/json"})
-    r.raise_for_status()
+    hdr = {
+        "Tenant": src["tenant"], "Accept": "application/json", "Content-Type": "application/json",
+        "Referer": f"{src['base']}/publikum/{src['tenant']}/",
+    }
+    r = get(url, headers=hdr)
+    if r.status_code != 200:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
     j = r.json()
     out = []
     for it in j.get("Items", []):
@@ -117,7 +126,7 @@ def collect_elements(src, terms, cfg):
             d += dt.timedelta(days=1)
             time.sleep(0.3)
     for term in terms:
-        got, total, n = elements_query(src, term, since, t)
+        got, total, n = elements_query(src, query_of(term), since, t)
         if total > n:
             notes.append(f"«{term}»: {total} treff, hentet {n}")
         for it in got:
@@ -167,7 +176,7 @@ def collect_p360(src, terms, cfg):
     for term in terms:
         offset = 0
         for _page in range(6):
-            url = f"{src['base']}/Journal/SearchSimple?searchstring={quote(term)}"
+            url = f"{src['base']}/Journal/SearchSimple?searchstring={quote(query_of(term))}"
             if offset:
                 url += f"&offset={offset}"
             r = get(url)
@@ -205,7 +214,7 @@ def collect_einnsyn(src, terms, cfg):
     items, notes = {}, []
     for term in terms:
         path = "/search?" + urlencode({
-            "query": term, "entity": "Journalpost", "sortBy": "publisertDato",
+            "query": query_of(term), "entity": "Journalpost", "sortBy": "publisertDato",
             "sortOrder": "desc", "limit": 50,
         }) + "&expand=journalenhet&expand=korrespondansepart&expand=saksmappe"
         for _page in range(5):
@@ -227,11 +236,11 @@ def collect_einnsyn(src, terms, cfg):
                 enh_name = enh.get("navn", "") if isinstance(enh, dict) else ""
                 gid, glabel = einnsyn_group(enh_name)
                 kps = [k for k in (it.get("korrespondansepart") or []) if isinstance(k, dict)]
-                party = "; ".join(
-                    k.get("korrespondansepartNavn", "") for k in kps
-                    if k.get("korrespondanseparttype", "").endswith(("avsender", "mottaker"))
-                    and "intern" not in k.get("korrespondanseparttype", "")
-                )
+                ext = [k.get("korrespondansepartNavn", "") for k in kps
+                       if k.get("korrespondanseparttype", "").endswith(("avsender", "mottaker"))
+                       and "intern" not in k.get("korrespondanseparttype", "")]
+                # lange mottakerlister (høringer) gir falske treff
+                party = "; ".join(ext) if len(ext) <= 3 else f"{len(ext)} mottakere"
                 sm = it.get("saksmappe") if isinstance(it.get("saksmappe"), dict) else {}
                 jt = it.get("journalposttype", "")
                 url = "https://einnsyn.no/saksmappe?" + urlencode({
