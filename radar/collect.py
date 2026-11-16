@@ -362,6 +362,8 @@ def main():
     status = []
 
     for src in cfg["sources"]:
+        if src.get("enabled") is False:
+            continue
         national = src["type"] in ("einnsyn", "stortinget")
         scopes = {"all"} if national else {"all", "regional"}
         terms = [k["term"] for k in kw_all if k["scope"] in scopes]

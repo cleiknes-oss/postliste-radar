@@ -29,6 +29,7 @@ def main():
     full_since = (today - dt.timedelta(days=st["enebakk_full_days"])).isoformat()
     newest_seen = max((i.get("first_seen", "") for i in items), default="")
     primary = next(s["id"] for s in cfg["sources"] if s.get("primary"))
+    primary_enabled = next(s for s in cfg["sources"] if s.get("primary")).get("enabled") is not False
 
     def age(i):
         try:
@@ -79,7 +80,7 @@ def main():
         s["relevance"] = round(sum(i["relevance"] for i in s["items"]), 2)
     configured = []
     for s in cfg["sources"]:
-        if s.get("primary"):
+        if s.get("primary") or s.get("enabled") is False:
             continue
         if s["type"] == "einnsyn":
             configured += ["Akershus fylkeskommune", "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
@@ -98,6 +99,7 @@ def main():
         "sources": ranked,
         "quiet": [l for l in configured if l not in {s["label"] for s in ranked}],
         "status": status,
+        "primaryEnabled": primary_enabled,
         "keywords": cfg["keywords"],
     }
     SITE.mkdir(exist_ok=True)

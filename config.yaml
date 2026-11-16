@@ -78,35 +78,46 @@ exclude_patterns:
   - "Ferdigbehandlet bestilling"
 
 sources:
+  # MERK: Elements (prod01/prod02.elementscloud.no) og Public 360 (*.pj.360online.com)
+  # har robots.txt «Disallow: /» og blokkerer automatiske klienter. Kildene er derfor
+  # slått av (enabled: false). Slå dem på igjen bare hvis leverandøren/kommunen gir
+  # tilgang, eller hvis kommunen begynner å publisere postlisten i eInnsyn.
   - id: enebakk
+    enabled: false
     label: "Enebakk kommune"
     type: elements
     base: "https://prod01.elementscloud.no"
     tenant: "964949581"
     primary: true
   - id: nordrefollo
+    enabled: false
     label: "Nordre Follo kommune"
     type: p360
     base: "https://nordre-follo.pj.360online.com"
   - id: ralingen
+    enabled: false
     label: "Rælingen kommune"
     type: elements
     base: "https://prod01.elementscloud.no"
     tenant: "952540556"
   - id: as
+    enabled: false
     label: "Ås kommune"
     type: p360
     base: "https://as.pj.360online.com"
   - id: frogn
+    enabled: false
     label: "Frogn kommune"
     type: p360
     base: "https://frogn.pj.360online.com"
   - id: nesodden
+    enabled: false
     label: "Nesodden kommune"
     type: elements
     base: "https://prod02.elementscloud.no"
     tenant: "944383565_PROD-944383565"
   - id: vestby
+    enabled: false
     label: "Vestby kommune"
     type: p360
     base: "https://vestby.pj.360online.com"

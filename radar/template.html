@@ -114,7 +114,8 @@ function render(){
   const s = [];
   const nav = [];
   // 1. Enebakk – alltid øverst
-  s.push(`<section class="primary" id="s-enebakk"><h2>Enebakk kommune – postliste <span class="n">${count(D.enebakkHits)} treff på søkeord siste ${D.lookback} dager</span></h2>
+  if (!D.primaryEnabled) s.push(`<section class="primary" id="s-enebakk"><h2>Enebakk kommune – postliste</h2><div class="empty">Enebakks postliste (Elements) tillater ikke automatisk innhenting. <a href="https://prod01.elementscloud.no/publikum/964949581/" target="_blank" rel="noopener">Åpne postlisten manuelt</a>. Under vises post til og fra Enebakk som er journalført hos andre (fylket, Statsforvalteren, departementer, direktorater) og Stortinget.</div></section>`);
+  else s.push(`<section class="primary" id="s-enebakk"><h2>Enebakk kommune – postliste <span class="n">${count(D.enebakkHits)} treff på søkeord siste ${D.lookback} dager</span></h2>
     ${list(D.enebakkHits,false,25)}
     <details ${Q?"open":""}><summary>Hele postlisten siste ${D.fullDays} dager (${count(D.enebakkAll)} poster)</summary>${list(D.enebakkAll,false)}</details></section>`);
   nav.push(["s-enebakk","Enebakk",count(D.enebakkHits)]);
