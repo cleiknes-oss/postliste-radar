@@ -1,5 +1,24 @@
 [
  {
+  "id": "einnsyn:jp_01m7m1kpdfemgspmfsh2news13",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens kartverk",
+  "title": "Vs: Søknad om API tilgang - Saknr SAK-791550-X7Y0H4 CRM:000001820001114",
+  "party": "**********; Kartverket - Kundesenter; Kundesenter",
+  "case": "SAK-791550-X7Y0H4 - Søknad om API tilgang-FOLLO BRANNVESEN IKS",
+  "caseno": "2026/571886",
+  "date": "2026-11-16",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971040238--2026--571886&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--82c5215c-ae5c-4190-9779-cfeea8b40b3e",
+  "matches": [
+   "Follo brannvesen"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m7cad94tex48h3gk55yq4vmj",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -17,6 +36,197 @@
    "Follo brannvesen"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7kae715e3c9m8dt7nhaqaqc",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Avklaring om tegningsgrunnlag for detaljregulering - Fv. 120 Nannestadvegen - PlanID 25-01 Bjørkesaga i Nannestad kommune",
+  "party": "##### ##### ####_",
+  "case": "Nannestad kommune - Reguleringsplan - PlanID 25-01 - Bjørkesaga - Fv. 120 - Nannestadvegen - Detaljregulering",
+  "caseno": "2026/13475",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff3128dd8-cd7a-41ab-80e2-c7c5d9cbfb49&jid=https%3A%2F%2Fprod02.elementscloud.no%2F8950f998-03e1-45f6-b527-5db299a4a6a8",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kaczvdefj982pwd3h0bfzq",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Søknad om status som regionalpark for Øyeren natur- og kulturpark",
+  "party": "##### ####_",
+  "case": "Tømmerruta / Øyeren natur- og kulturpark - Status som regionalparkkandidat",
+  "caseno": "2024/33318",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F98ac8329-e753-4a62-b34c-e85da8b3adbe&jid=https%3A%2F%2Fprod02.elementscloud.no%2F0d12c8fb-2bc8-4c95-a191-fedf31a9e3dd",
+  "matches": [
+   "Øyeren"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7ka91rdetzv9d1hwtdtp86m",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Kopi - Enebakk kommune - Flateby avløpsrenseanlegg - Tillatelse etter forurensingsloven til utslipp av kommunalt avløpsvann - Høring - Innspill - Oppstart",
+  "party": "STATSFORVALTEREN I ØSTFOLD, BUSKERUD, OSLO OG AKERSHUS",
+  "case": "Enebakk kommune - Flateby avløpsrenseanlegg - Tillatelse etter forurensingsloven til utslipp av kommunalt avløpsvann - Høring",
+  "caseno": "2025/15881",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F80a14a3c-7b55-42c4-bdde-f28aef6b74b4&jid=https%3A%2F%2Fprod02.elementscloud.no%2F8bbe2af8-af37-4494-866e-272e87e3a345",
+  "matches": [
+   "Enebakk",
+   "Flateby"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7k9phmke8nvk0fyeajbtk8x",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Kopi - Enebakk kommune - Byggesak - Gbnr 86/1 - Måsan - Oppføring av gapahuk i marka - Uttalelse - Dispensasjon",
+  "party": "STATSFORVALTEREN I ØSTFOLD, BUSKERUD, OSLO OG AKERSHUS",
+  "case": "Enebakk kommune - Byggesak - Gbnr 86/1 - Gapahuk i marka",
+  "caseno": "2026/38779",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1910fe56-56f8-4f81-9a2f-08760e2626cd&jid=https%3A%2F%2Fprod02.elementscloud.no%2Fadab7d9f-a52d-4b68-8615-1c613b16fc7c",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7k9n2kfe0nbsdvcqzmd3b15",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Enebakk kommune - Fv 155 Osloveien - Andersrudveien -svar på bekymringsmelding om bomiljø, industriaktivitet og trafikksikkerhet",
+  "party": "##### ####_",
+  "case": "Enebakk kommune - Andersrudveien - Formell bekymringsmelding om bomiljø, industriaktivitet og trafikksikkerhet",
+  "caseno": "2026/40150",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6ef0c3e6-64bb-4c00-afef-cdafc96f7345&jid=https%3A%2F%2Fprod02.elementscloud.no%2F684d9ddd-2a64-440d-9a6d-c57cd9f67cf1",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7k9jdvte7arc50n0sx7a4en",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Østfold fylkeskommune",
+  "title": "Opprettholder kravet - erstatningskrav - påkjørt rekkverk – fv. 120 Skjelfossveien v/Ringvoll - Indre Østfold kommune - skadedato 22.11.2025 - kjent skadevolder",
+  "party": "GJENSIDIGE FORSIKRING ASA",
+  "case": "Erstatningskrav - påkjørt rekkverk – fv. 120 Skjelfossveien v/Ringvoll - Indre Østfold kommune - skadedato 22.11.2025 - kjent skadevolder",
+  "caseno": "2026/7041",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffe55b73a-7450-4e13-bcf9-9446a601cbf2&jid=https%3A%2F%2Fprod02.elementscloud.no%2Fa82ae2bf-0ddf-479e-9534-dde01ed4bf67",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7k9hy9tegrvxx5za4cag6y2",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Etterlyser skadevolder i forbindelse med skade på Akershus fylkeskommunes eiendom - Påkjørt terminal og lysmast - Fv. 120 - Fjerdingby - Rælingen kommune - 020626 - kl 5.15 - PO ID 37",
+  "party": "ØST POLITIDISTRIKT",
+  "case": "Erstatningskrav - Påkjørt terminal - Fv. 120 Fjerdingby - Rælingen kommune - 020626 - Kjent skadevolder",
+  "caseno": "2026/40398",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7c24c825-800b-4c0e-be87-6909e5ba92f0&jid=https%3A%2F%2Fprod02.elementscloud.no%2F3d4f5f09-0046-4382-87fb-a9461c19b414",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j8c5j6ez4aj526q038tbzb",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens kartverk",
+  "title": "Tinglysing knr 3220 Enebakk kommune gnr 91 bnr 813 - Førstegangsretur av ikke tinglyst dokument",
+  "party": "METRA NÆRINGSMEGLING AS",
+  "case": "Tinglysing knr 3220 Enebakk kommune gnr 91 bnr 813",
+  "caseno": "2026/39279",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971040238--39279--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971040238--2026--39279--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j8ap7xegyahegzvhsymk14",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens kartverk",
+  "title": "Tinglysing knr 5544 Nordreisa kommune gnr 29 bnr 109 - Annengangsretur av ikke tinglyst dokument",
+  "party": "HALTI NASJONALPARKSENTER OVI RAISHIIN AS",
+  "case": "Tinglysing knr 5544 Nordreisa kommune gnr 29 bnr 109",
+  "caseno": "2026/23014",
+  "date": "2026-11-12",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971040238--23014--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971040238--2026--23014--3--2026",
+  "matches": [
+   "nasjonalparksenter"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7hvaegrej2vhc5yw0fjs8pc",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Boligbygg Oslo KF",
+  "title": "Varsel økning felleskostnadene fra 01.01.2027",
+  "party": "Østmarka Borettslag; Forvalterteam Ytre by",
+  "case": "Østmarka Borettslag - Korrespondanse",
+  "caseno": "2024/100997",
+  "date": "2026-11-11",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.974780747.no%2Fc5b53650-592c-4f94-9450-5d2749f537fe&jid=http%3A%2F%2Fjournalpost.974780747.no%2F7d82422e-27c2-42b2-8c64-aa814f51c9c5",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m7gsa19pec79a4meafrt0d1d",
@@ -208,6 +418,159 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7kbgbbzeq3aemk3qg327b33",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Miljødirektoratet",
+  "title": "Ettersendelse av dokumentasjon på klage på tillatelse etter forurensningsloven til utslipp av kommunalt avløpsvann fra Ytre Enebakk og Flateby tettbebyggelse",
+  "party": "ENEBAKK KOMMUNE",
+  "case": "Klage på vedtak fattet av Statsforvalteren i Østfold, Buskerud, Oslo og Akershus - tillatelse etter forurensningsloven til utslipp av kommunalt avløpsvann fra Ytre Enebakk og Flateby tettbebyggelse - Enebakk sentralrenseanlegg og Flateby avløpsrenseanlegg",
+  "caseno": "2026/4098",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3107813d-5160-44ae-a49c-56282ac93e15&jid=https%3A%2F%2Fprod02.elementscloud.no%2F6fe6fb52-3c14-4be6-8719-91a5b2a50b6b",
+  "matches": [
+   "Enebakk",
+   "Flateby"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kaxh4zewmb3917yvsf1m6f",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Sivilombudet",
+  "title": "Klage på avslag om innsyn og manglende svar",
+  "party": "##### ##### ####_",
+  "case": "Manglende svar - Innsyn - All kommunikasjon om Kopåsveien 7 - Enebakk kommune",
+  "caseno": "2026/7543",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Feinnsyn.sivilombudet.no%2Fed70e565-42af-4109-a5ea-8508dfdd01c5&jid=https%3A%2F%2Feinnsyn.sivilombudet.no%2Fdcbb75d3-3e7b-4025-b2bb-8abd12364d1e",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j73k1jes4v6qqpmzza300v",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Kontrakt til signering - Delkontrakt 3 - Mellomstor traktor til Østmarka - Signert",
+  "party": "*****; *****; Anskaffelser",
+  "case": "39-BYM-2026 - Anskaffelse av 3 stk. traktorer til Marka",
+  "caseno": "2026/19015",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F785194d9-33ba-440e-88d2-8091348d4062&jid=http%3A%2F%2Fjournalpost.996922766.no%2F8f1c0e1b-4525-463b-94db-7972e163eb8b",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j7286behvszp4gp6ggf6kj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Kontrakt til signering - Delkontrakt 3 - Mellomstor traktor til Østmarka",
+  "party": "*****; Anskaffelser",
+  "case": "39-BYM-2026 - Anskaffelse av 3 stk. traktorer til Marka",
+  "caseno": "2026/19015",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F785194d9-33ba-440e-88d2-8091348d4062&jid=http%3A%2F%2Fjournalpost.996922766.no%2F420bfe00-3b8b-4403-8c5e-a09d2b9f2d48",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j6yfdsenraf15a1frp547e",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Forprosjektrapport med vedlegg - Skraperudtjern i Østmarka",
+  "party": "*****; Skogsplan og forvaltning",
+  "case": "Byggesak - Rehabilitering av turvei - Skraperudtjern i Østmarka",
+  "caseno": "2026/24252",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F5e94bf35-18de-4d3d-890d-676cf2e8ec28&jid=http%3A%2F%2Fjournalpost.996922766.no%2Fc770126c-17e5-448b-8469-9380fd0c33d2",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j6y6h5e2vbps7jfanmvtf4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Overvann ved Rundtjern - Spørsmål om utbedring",
+  "party": "*****; Østmarka",
+  "case": "Kundehenvendelser - Østmarka 2026",
+  "caseno": "2026/291",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F77d9a4d5-a882-4521-8c2e-d1bcad6b7937&jid=http%3A%2F%2Fjournalpost.996922766.no%2F54468e6d-e235-453f-b2e4-6de74b68f7e3",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j6y4a1ehfbjn8fmz3hbfee",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Søknad om kjøretillatelse på Oslo kommunes skogsbilveier - Østmarka - Gangveien inn fra Dalssvingen på Dal/Brenna - 16.11.2026-20.11.2026",
+  "party": "SØNDRE DAL GÅRD BARNEHAGE AS; Skog og friluft nord",
+  "case": "Søknad om kjøretillatelse på Oslo kommunes skogsbilveier - 2026",
+  "caseno": "2026/10346",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F7b5cc93c-cb0f-4888-a831-01b8dcd548af&jid=http%3A%2F%2Fjournalpost.996922766.no%2F6584a8c0-3480-4318-884e-09ac167b130c",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7hrcxh9e7x9yp08vz1rgmzw",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Byrådsavdelingene",
+  "title": "Vedtak i Dammyrveisaken",
+  "party": "Østmarkas Venner; Bymiljøseksjonen",
+  "case": "Statsforvalteren overkjører lokaldemokratiet",
+  "caseno": "2025/1015",
+  "date": "2026-11-10",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976819837.no%2F8dd42a1e-bf34-48f6-88bc-1790f7f33b5e&jid=http%3A%2F%2Fjournalpost.976819837.no%2Fbb6b7272-c2d8-417c-9e29-f5730b2eb7db",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m7a124r4ed2v5mekwnkjve9y",
@@ -801,6 +1164,45 @@
    "Fv. 120"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7k5x02seemams1gfn3e0fa6",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Norges vassdrags- og energidirektorat",
+  "title": "NVEs innspill - Varsel om oppstart - Detaljregulering - Flateby renseanlegg - PlanID 20260002 - Enebakk kommune",
+  "party": "HRP AS",
+  "case": "Detaljregulering - Flateby renseanlegg - PlanID 20260002 - Enebakk kommune, Akershus",
+  "caseno": "2026/23680",
+  "date": "2026-11-06",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--970205039--23680--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--970205039--2026--23680--2--2026",
+  "matches": [
+   "Enebakk",
+   "Flateby"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j1bppwen2bnam0cf6htrp2",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Driftsrapport for HBWR for uke 44 / 2026",
+  "party": "NORSK NUKLEÆR DEKOMMISJONERING",
+  "case": "IFE Halden - Ukerapport - Driftsrapporter for HBWR 2026",
+  "caseno": "2026/125",
+  "date": "2026-11-06",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--125--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--125--33--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m7a2trndekftrk4dpg3g6trq",
@@ -1832,6 +2234,123 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7kkxhb8e2hrvhnv1qtj19f4",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Bekreftelse på mottatt rapport - Østmarka nasjonalpark - Vangen skistue - øvelse med redningsdrone - Norsk Folkehjelp Follo",
+  "party": "Norsk Folkehjelp Follo",
+  "case": "Østmarka nasjonalpark - Vangen skistue - øvelse med redningsdrone - Norsk Folkehjelp Follo",
+  "caseno": "2025/41656",
+  "date": "2026-11-03",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--974761319--41656--2025&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fd70255f1-a3f9-4a88-b9f1-b84d7d690ed4",
+  "matches": [
+   "Østmarka+nasjonalpark",
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kkc8w4eemse9b77djzts30",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Bekymringsmelding - Østmarka nasjonalpark - Tonekollen - ber om fjerning eller endring av bolt / kamjern på toppunktet som kan utgjøre risiko",
+  "party": "##### ####_",
+  "case": "Østmarka nasjonalpark - Tonekollen - ber om fjerning eller endring av bolt / kamjern på toppunktet som kan utgjøre risiko",
+  "caseno": "2026/51132",
+  "date": "2026-11-03",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fb84f3b4c-58fd-4d26-bb7b-048c3cca311f&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F7c95c337-ed57-4b9a-9b94-fecb104d8a44",
+  "matches": [
+   "Østmarka+nasjonalpark",
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kk44vve9vspsr02ybg655s",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Vedtak i klagesak etter offentleglova - Enebakk kommune - sak 2026/14 - arbeidsmiljøkartlegging i Miljø og samfunn - Anonym",
+  "party": "ENEBAKK KOMMUNE",
+  "case": "Offentleglova - Enebakk - sak 2026/14 - arbeidsmiljøkartlegging i Miljø og samfunn - Anonym",
+  "caseno": "2026/46979",
+  "date": "2026-11-03",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F70b30f7b-2382-4bf1-b91d-682914c1051b&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fddec6d62-b62d-4926-a073-859137d764d0",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kfr047e3jvn20sw3rsjwpy",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Tilgang SKV - virksomheter viktig for samfunnet - Follo brannvesen IKS",
+  "party": "FORSVARETS PERSONELL- OG VERNEPLIKTSSENTER",
+  "case": "Endre SKV - virksomheter viktig for samfunnet - Follo brannvesen IKS",
+  "caseno": "2026/50615",
+  "date": "2026-11-03",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fcde2d25c-9166-40cc-b824-154b6fc0a836&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fc7e72b25-adac-4012-b6fb-481392d1a0cd",
+  "matches": [
+   "Follo brannvesen"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7kaj1f2e1j8eygj5g1v8gqs",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Videre arbeid - Østmarka nasjonalpark - Oslo - kartlegging av Nøkklevann i Østmarka friluftslivsområde - 2026 - Prosjekt Sara",
+  "party": "Dammen Geo-Services AS",
+  "case": "Østmarka nasjonalpark - Oslo - kartlegging av Nøklevann / Nøkklevann i Østmarka friluftslivsområde - 2026 - Prosjekt Sara",
+  "caseno": "2026/39337",
+  "date": "2026-11-03",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fc754137a-43b6-48d0-9c79-2220202a25ec&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F42afc048-d02e-45cc-99f8-7c324725fa2e",
+  "matches": [
+   "Østmarka+nasjonalpark",
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j2tpg5e41r0bwrd59pweze",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Nordland fylkeskommune",
+  "title": "Utbetaling i prosjekt 2026-0774",
+  "party": "Stiftelsen Nordland Nasjonalparksenter; Navn ikke oppgitt",
+  "case": "Tilskudd - 2026 - Regionale kulturfond - Samiske språk, kunst og kulturaktiviteter - Samisk i Uerstattelig - STIFTELSEN NORDLAND NASJONALPARKSENTER",
+  "caseno": "2026/52675",
+  "date": "2026-11-03",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.964982953.no%2F99e1e968-02c5-4728-8076-a52ae09ccdae&jid=http%3A%2F%2Fjournalpost.964982953.no%2Fc7e14ff2-6e3e-4658-a268-d0d347c99b51",
+  "matches": [
+   "nasjonalparksenter"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m75gsahme5t83htkskxje6wa",
@@ -3292,6 +3811,63 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m7ja9rzgefj9btbjvrad5063",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Utdanningsetaten",
+  "title": "Tildeling og refusjon for særskilt språkopplæring for Østmarka skole skoleåret 2026-2027, høsteffekt",
+  "party": "Østmarka Skole; Seksjon elev- og deltakerrettigheter",
+  "case": "Tildeling og refusjon særskilt språkopplæring private skoler 2026-2027",
+  "caseno": "2026/22518",
+  "date": "2026-10-28",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820037.no%2F710bde95-360a-45f4-8b17-afc1eea04ee0&jid=http%3A%2F%2Fjournalpost.976820037.no%2F82627c71-cf37-4fce-b2b6-6a47a85b4992",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j9xk47e6hvfzyn5e5x98r4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Utdanningsetaten",
+  "title": "Læringsverkstedet Østmarka Idrettsbarnehage - utbetaling av statlig tilskudd til grunnutdanning for ansatte i barnehagen",
+  "party": "Læringsverkstedet Østmarka Idrettsbarnehage; Seksjon for barnehagemyndighet 1",
+  "case": "Statlig tilskudd til grunnutdanning for ansatte i barnehagen",
+  "caseno": "2026/23013",
+  "date": "2026-10-28",
+  "published": "2026-11-16",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820037.no%2F8007fef0-bc31-4688-bd5f-5c855534a904&jid=http%3A%2F%2Fjournalpost.976820037.no%2Fc89bc418-dc69-4fac-bcc1-1e65fffb2b79",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7j24v64ek3bagvpm0h4d3t5",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Nordland fylkeskommune",
+  "title": "Anmodning om sluttutbetaling  2026-0774",
+  "party": "Stiftelsen Nordland Nasjonalparksenter; Navn ikke oppgitt",
+  "case": "Tilskudd - 2026 - Regionale kulturfond - Samiske språk, kunst og kulturaktiviteter - Samisk i Uerstattelig - STIFTELSEN NORDLAND NASJONALPARKSENTER",
+  "caseno": "2026/52675",
+  "date": "2026-10-28",
+  "published": "2026-11-16",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.964982953.no%2F99e1e968-02c5-4728-8076-a52ae09ccdae&jid=http%3A%2F%2Fjournalpost.964982953.no%2F3ff96246-09b5-43f9-ac36-3bb855e11a35",
+  "matches": [
+   "nasjonalparksenter"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m741yndse9zvbtkqb5hq3trc",
   "source_id": "statsforvalteren",
   "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
@@ -4266,6 +4842,25 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m787dkwze2k9cp11fec5zzk1",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Loggbok APV20265838",
+  "party": "*",
+  "case": "Søknad om arbeidsvarsling - spesiell - FV120, PV99466 - Akershus - Enebakk - APV20265838-S1",
+  "caseno": "2026/146033",
+  "date": "2026-10-26",
+  "published": "2026-11-12",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--146033--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--146033--8--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m6zwsk1qea68bgxr7dwrnx3k",
@@ -6111,6 +6706,44 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m7821765ebcs0cbcew1ammvc",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Vedrørende transportleders kompetanse",
+  "party": "ENEBAKK PRODUKTER AS (1)",
+  "case": "Transportløyve - org.nr. 965782176 - ENEBAKK PRODUKTER AS - transportansvarlig",
+  "caseno": "2026/314090",
+  "date": "2026-10-20",
+  "published": "2026-11-12",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--314090--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--314090--2--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m75em3nbe7789phrd1kh7tzz",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Anmodning om skiltvedtak - Ringveien - Enebakk kommune",
+  "party": "ENEBAKK KOMMUNE",
+  "case": "Skiltplan - Ringveien - Enebakk kommune",
+  "caseno": "2026/316742",
+  "date": "2026-10-20",
+  "published": "2026-11-11",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--316742--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--316742--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m6r3q3z5edk94qxvd6tsvw83",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -6384,7 +7017,7 @@
   "source_label": "Akershus fylkeskommune",
   "agency": "Akershus fylkesråd",
   "title": "Gjerdrum kommune - Reguleringsplan - Fv. 120 - Oppdragsgiver og utførende for tiltak innkjøringen - Ingelstun vegen",
-  "party": "Ask Boligsameie 1",
+  "party": "ASK BOLIGSAMEIE 1",
   "case": "Gjerdrum kommune - Reguleringsplan - Fv. 120 - Innkjøringen til Ingelstun vegen",
   "caseno": "2026/38116",
   "date": "2026-10-20",
@@ -6434,6 +7067,25 @@
    "Fv. 120"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m75d8t4yeesrg7sydtatj8ee",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Elbil i bussfelt - fv. 120 og rv. 226 - Skedsmokorset",
+  "party": "*",
+  "case": "Elbil i bussfelt - fv. 120 og rv. 226 - Skedsmokorset",
+  "caseno": "2026/315127",
+  "date": "2026-10-19",
+  "published": "2026-11-11",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--315127--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--315127--1--2026",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m6r3nt69e75s2t88cs0r9mn6",
@@ -6970,6 +7622,44 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m731kazyegdvxe75vmvp787n",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Melding om vedtak av reguleringsplan for Månetoppen",
+  "party": "ENEBAKK KOMMUNE",
+  "case": "Reguleringsplan og oppstart av utbyggingsavtale for Månetoppen, Ytre Enebakk - Enebakk kommune - Detaljregulering",
+  "caseno": "2025/24182",
+  "date": "2026-10-16",
+  "published": "2026-11-10",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--24182--2025&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2025--24182--3--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m731e7w2ej18rpc1rb3gccee",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Org.nr. 965782176 - ENEBAKK PRODUKTER AS - søknad om transportansvarlig",
+  "party": "*",
+  "case": "Transportløyve - org.nr. 965782176 - ENEBAKK PRODUKTER AS - transportansvarlig",
+  "caseno": "2026/314090",
+  "date": "2026-10-16",
+  "published": "2026-11-10",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--314090--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--314090--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m6526zzbeagvnjm0nbjcpjkt",
   "source_id": "statsforvalteren",
   "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
@@ -7255,6 +7945,63 @@
    "Fv. 120"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7320f26edrr8akk49v4fapj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "965782176 - ENEBAKK PRODUKTER AS - Transportløyvegaranti - Bekreftelse garantist",
+  "party": "*",
+  "case": "Transportløyve - 965782176 - ENEBAKK PRODUKTER AS - Garanti - Ny",
+  "caseno": "2026/312633",
+  "date": "2026-10-15",
+  "published": "2026-11-10",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--312633--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--312633--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7320ejce3dacc4m1jdfzdt3",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Garanti",
+  "party": "*",
+  "case": "Transportløyve - 965782176 - ENEBAKK PRODUKTER AS - Garanti - Ny",
+  "caseno": "2026/312633",
+  "date": "2026-10-15",
+  "published": "2026-11-10",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--312633--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--312633--2--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7311kzdek0ra5zna9ng3pw1",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Org.nummer 965782176 - ENEBAKK PRODUKTER AS - Garanti",
+  "party": "*",
+  "case": "Transportløyve - Org.nummer 965782176 - ENEBAKK PRODUKTER AS - Garanti ny",
+  "caseno": "2026/312451",
+  "date": "2026-10-15",
+  "published": "2026-11-10",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--312451--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--312451--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m62fc345ehzt5mrqmcbem6t1",
@@ -8562,6 +9309,44 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m6dyha0vegdvc8aq9vnn0tmt",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Loggbok APV20265838",
+  "party": "*",
+  "case": "Søknad om arbeidsvarsling - spesiell - FV120, PV99466 - Akershus - Enebakk - APV20265838-S1",
+  "caseno": "2026/146033",
+  "date": "2026-10-08",
+  "published": "2026-11-02",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--146033--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--146033--6--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m6dyh12me8vavt4290vgwref",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Loggbok APV20265838",
+  "party": "*",
+  "case": "Søknad om arbeidsvarsling - spesiell - FV120, PV99466 - Akershus - Enebakk - APV20265838-S1",
+  "caseno": "2026/146033",
+  "date": "2026-10-08",
+  "published": "2026-11-02",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--146033--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--146033--7--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m663gpccer5aj6zv1r33btnr",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -8617,6 +9402,25 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m63rd3zveqr9dh37k4j47z79",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Innspill til høring av normal N500 Vegtunneler, Follo brannvesen iks",
+  "party": "*",
+  "case": "Vegnormal N500 Vegtunneler - revisjon 2024-2026",
+  "caseno": "2024/292547",
+  "date": "2026-10-07",
+  "published": "2026-10-29",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--292547--2024&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2024--292547--135--2026",
+  "matches": [
+   "Follo brannvesen"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m5dnaakjescr7w2s2k0y723x",
@@ -8756,6 +9560,25 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m5yhb27aebtrkpajxk005m56",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Forespørsel om dokumenter knyttet til kulvert -  FV120 Nedre Rælingsveg - Rælingen kommune - Kopi",
+  "party": "*",
+  "case": "Kulvert - Fv. 120 Nedre Rælingsveg - Rælingen kommune",
+  "caseno": "2026/300100",
+  "date": "2026-10-05",
+  "published": "2026-10-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--300100--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--300100--1--2026",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "einnsyn:jp_01m58ng6nsenfvqt5305amy54y",
   "source_id": "statsforvalteren",
   "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
@@ -8792,6 +9615,82 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m5fe3shqeyks1xc0f3kjthr9",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Dokument for trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus til TEA TRANSPORT AS",
+  "party": "*",
+  "case": "Trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus med referanse 5373489",
+  "caseno": "2026/297102",
+  "date": "2026-10-01",
+  "published": "2026-10-21",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--297102--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--297102--2--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m5fe3grce2ysbx1seqabngcw",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Dokument for trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus til *",
+  "party": "*",
+  "case": "Trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus med referanse 5373489",
+  "caseno": "2026/297102",
+  "date": "2026-10-01",
+  "published": "2026-10-21",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--297102--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--297102--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m5fdzhrye5pt8bny2fpe4ky7",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Dokument for trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus til ERIK LARM AS",
+  "party": "*",
+  "case": "Trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus med referanse 5373440",
+  "caseno": "2026/296891",
+  "date": "2026-10-01",
+  "published": "2026-10-21",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--296891--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--296891--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m5fdz63dep59ckd31ayyc0fj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Dokument for trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus til *",
+  "party": "*",
+  "case": "Trafikkontroll ved F120 Lillestrømveien, Enebakk, Akershus med referanse 5373440",
+  "caseno": "2026/296891",
+  "date": "2026-10-01",
+  "published": "2026-10-21",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--296891--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--296891--2--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-17"
  },
  {
   "id": "einnsyn:jp_01m5a3a7vve71r0fz0jrgqanhm",
