@@ -1,5 +1,43 @@
 [
  {
+  "id": "einnsyn:jp_01m7nwn8yjeawsm51hhg44xccv",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Nasjonalarkivet",
+  "title": "Supplerende notater fra tilsynsbesøk hos NND / Norsk nukleær dekommisjonering",
+  "party": "",
+  "case": "Tilsyn med arkivene i Norsk nukleær dekommisjonering / NND - 2026",
+  "caseno": "2026/10881",
+  "date": "2026-11-16",
+  "published": "2026-11-17",
+  "doctype": "Notat",
+  "direction": "N",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod01.elementscloud.no%2F993c8cdd-b33e-44bc-a8cc-05648e994c6d&jid=https%3A%2F%2Fprod01.elementscloud.no%2F810d868a-537b-4140-80d9-86d06692eb8b",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7nwgvgqedqbm6c9t739s9zx",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Nasjonalarkivet",
+  "title": "Interne notater fra tilsynsbesøk 03.11.2026 hos NND",
+  "party": "",
+  "case": "Tilsyn med arkivene i Norsk nukleær dekommisjonering / NND - 2026",
+  "caseno": "2026/10881",
+  "date": "2026-11-16",
+  "published": "2026-11-17",
+  "doctype": "Notat",
+  "direction": "N",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod01.elementscloud.no%2F993c8cdd-b33e-44bc-a8cc-05648e994c6d&jid=https%3A%2F%2Fprod01.elementscloud.no%2F8ddd1c8d-2ed8-45e6-ab4a-372b32ac6567",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
   "id": "einnsyn:jp_01m7m1kpdfemgspmfsh2news13",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -19,6 +57,44 @@
   "first_seen": "2026-11-17"
  },
  {
+  "id": "einnsyn:jp_01m7pqv0rnew6sdw3s1sc7zj2m",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Norsk nukleær dekommisjonering",
+  "title": "Innspill fra NND ang presentasjon KS LARA",
+  "party": "OSLO ECONOMICS; Nils Lund-Bøhmer; Erik Magnus Sæther",
+  "case": "3.02.005 Konseptvalgutredning KVU - lager for radioaktivt avfall",
+  "caseno": "2024/16",
+  "date": "2026-11-13",
+  "published": "2026-11-18",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--920440754--16--2024&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--920440754--2024--16--16--2026",
+  "matches": [
+   "radioaktivt avfall"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7nw4dekek288zqp68ef9wv3",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Nannestad kommune - Fv. 120 - Gbnr 151/16 - Åsvegen 823 - Søknad om ny avkjørsel",
+  "party": "SAFEROAD TRAFFIC AS",
+  "case": "Nannestad kommune - Fv. 120 - Gbnr 151/16 - Åsvegen 823 - Avkjørsel",
+  "caseno": "2026/40928",
+  "date": "2026-11-13",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F186d0ad9-244e-4ca0-92a4-6b0e8ccd5309&jid=https%3A%2F%2Fprod02.elementscloud.no%2F06cc1e43-5f57-41c2-bc28-c64d2a2177aa",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
   "id": "einnsyn:jp_01m7cad94tex48h3gk55yq4vmj",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -36,6 +112,25 @@
    "Follo brannvesen"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7pqvcs7e5baejbdjz0xhvk4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Norsk nukleær dekommisjonering",
+  "title": "Høring - søknad om tillatelse til lagring av radioaktivt avfall i Met. lab. II - IFE NUK Kjeller",
+  "party": "Myndighetskommunikasjon; DSA - Direktoratet for strålevern og atomsikkerhet",
+  "case": "Høring - søknad om tillatelse til lagring av radioaktivt avfall i Met. lab. II - IFE NUK Kjeller",
+  "caseno": "2026/389",
+  "date": "2026-11-12",
+  "published": "2026-11-18",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--920440754--389--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--920440754--2026--389--1--2026",
+  "matches": [
+   "radioaktivt avfall"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7kae715e3c9m8dt7nhaqaqc",
@@ -208,6 +303,44 @@
    "nasjonalparksenter"
   ],
   "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m7mkeq7ge2w8kkeshatv00wm",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Nærings- og fiskeridepartementet",
+  "title": "Forespørsel om informasjon ifm. henvendelse om norsk reaktorteknologi",
+  "party": "Norsk nukleær dekommisjonering; Seksjon for budsjett, styring og nukleær opprydding",
+  "case": "Henvendelse om norsk reaktorteknologi",
+  "caseno": "2026/7014",
+  "date": "2026-11-11",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--912660680--7014--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--912660680--42071--2--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7mkemvgepqaeeynybd87v6q",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Nærings- og fiskeridepartementet",
+  "title": "Informasjon ifm. henvendelse om norsk reaktorteknologi",
+  "party": "Norsk nukleær dekommisjonering; Seksjon for budsjett, styring og nukleær opprydding",
+  "case": "Henvendelse om norsk reaktorteknologi",
+  "caseno": "2026/7014",
+  "date": "2026-11-11",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--912660680--7014--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--912660680--42072--3--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7hvaegrej2vhc5yw0fjs8pc",
@@ -725,6 +858,44 @@
    "Østmarka"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7nr9m5tem2rj86m9wsw9gd4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Norges vassdrags- og energidirektorat",
+  "title": "Kopi -  Vedtak - Dispensasjon - Etablering av hovedvannsledning og ledningsnett - Fra Hallerud til Ytre Enebakk via Mjær - Gnr. 463 bnr. 5 mfl. - Indre Østfold kommune",
+  "party": "INDRE ØSTFOLD KOMMUNE",
+  "case": "Dispensasjon - Etablering av hovedvannsledning og ledningsnett - Fra Hallerud til Ytre Enebakk via Mjær - Gnr. 463 bnr. 5 mfl. - Indre Østfold kommune, Østfold",
+  "caseno": "2026/18061",
+  "date": "2026-11-09",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--970205039--18061--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--970205039--2026--18061--3--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7mw78hre48b0qq2w9jszdey",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Addendum med supplerende og oppdaterte opplysninger til NNDs oppdaterte konsesjonssøknad for Kjeller",
+  "party": "NORSK NUKLEÆR DEKOMMISJONERING",
+  "case": "NND - Søknad om konsesjon for atomanlegg på Kjeller",
+  "caseno": "2026/2191",
+  "date": "2026-11-09",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--2191--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--2191--17--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7grxhq7e18t5mhmpm4f05nb",
@@ -1927,6 +2098,45 @@
    "Østmarka"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7p3ar2ze4etjmkm6621dgab",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Faktura og timeliste Havnen båtforening - Nordre Øyeren naturreservat - ledmerking - avtaler med Havnen og Fet båtforeninger",
+  "party": "",
+  "case": "Nordre Øyeren naturreservat - ledmerking - avtaler med Havnen og Fet båtforeninger",
+  "caseno": "2026/12541",
+  "date": "2026-11-04",
+  "published": "2026-11-18",
+  "doctype": "Notat",
+  "direction": "N",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--974761319--12541--2026&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F30d4c659-84c1-4404-ba2f-67505886f0bc",
+  "matches": [
+   "Øyeren"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7nwb19remc8kp0kbm36t3ex",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Befaringsrapport - Nordre Øyeren naturreservat - Øyerenveien 85 - trebrygge",
+  "party": "",
+  "case": "Nordre Øyeren naturreservat - utfylling - molo - brygge - Enebakk 7/63",
+  "caseno": "2025/8852",
+  "date": "2026-11-04",
+  "published": "2026-11-17",
+  "doctype": "Notat",
+  "direction": "N",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--974761319--8852--2025&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fc5045092-f2e4-4b62-996a-48a0c7fafe07",
+  "matches": [
+   "Enebakk",
+   "Øyeren"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7aa6fmyecgvhy8b0e0cg3pn",
@@ -3366,6 +3576,26 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m7msh0feek5r8bqscs3gyzp5",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for mineralforvaltning med Bergmesteren for Svalbard",
+  "title": "Varsel om oppstart av arbeid med reguleringsplan for Flateby renseanlegg i Enebakk kommune - planID 20260002",
+  "party": "HRP AS",
+  "case": "Reguleringsplan for Flateby renseanlegg i Enebakk kommune - planID 20260002",
+  "caseno": "2026/5766",
+  "date": "2026-10-29",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--974760282--5766--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--974760282--2026--5766--1--2026",
+  "matches": [
+   "Enebakk",
+   "Flateby"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
   "id": "einnsyn:jp_01m76jh8j2e0q8qghx9y0ywmhq",
   "source_id": "statsforvalteren",
   "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
@@ -3809,6 +4039,45 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7n2j2hbeyrbdfq49g74m5xe",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Ber om vedtak - Fv. 500 - service- og vegvisningsskilt - Besøkssenter Folgefonna nasjonalpark - Rosendal - Kvinnherad kommune",
+  "party": "*",
+  "case": "Service- og vegvisningsskilt - Fv. 500 - Besøkssenter Folgefonna nasjonalpark - Rosendal - Kvinnherad kommune",
+  "caseno": "2026/323632",
+  "date": "2026-10-28",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--323632--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--323632--1--2026",
+  "matches": [
+   "besøkssenter+nasjonalpark"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7n2bcn5e6j9ca0e3t92yw1r",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Varsel om planoppstart: Flateby renseanlegg  i Enebakk kommune",
+  "party": "HRP AS",
+  "case": "Reguleringsplan Flateby renseanlegg i Enebakk kommune  -  Arealplan-ID 20260002  - Detaljregulering",
+  "caseno": "2026/326917",
+  "date": "2026-10-28",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--326917--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--326917--1--2026",
+  "matches": [
+   "Enebakk",
+   "Flateby"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7ja9rzgefj9btbjvrad5063",
@@ -4287,6 +4556,25 @@
    "Fv. 120"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7n2a1xvewv92n3kp34zysdc",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Svar- Gjeldende fartsgrense stemmer ikke med bilens GPS - fv. 120 mellom Gjerdrum og Skedsmokorset - Gjerdrum kommune",
+  "party": "*",
+  "case": "Gjeldende fartsgrense stemmer ikke med bilens GPS - rv. 120 mellom Gjerdrum og Skedsmokorset - Gjerdrum kommune",
+  "caseno": "2026/322258",
+  "date": "2026-10-27",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--322258--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2026--322258--2--2026",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m71fybece5stgn349e2v8m4x",
@@ -4842,6 +5130,25 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7n0nw0qernv7fc5h3hh5c98",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Landbruks- og matdepartementet",
+  "title": "Høringssvar - Konsekvensutredning av Håmmålsfjellet-Sålekinna som vinterbeite for Fosen reinbeitedistrikt - Besøkssenter Forollhogna nasjonalpark",
+  "party": "Besøkssenter Forollhogna nasjonalpark; Seksjon reindriftspolitikk",
+  "case": "Høring - Konsekvensutredning av Håmmålsfjellet-Sålekinna som vinterbeite for Fosen reinbeitedistrikt - 26/1593 - mappe 4",
+  "caseno": "2026/2059",
+  "date": "2026-10-26",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--972417874--2059--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--972417874--12998--167--2026",
+  "matches": [
+   "besøkssenter+nasjonalpark"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m787dkwze2k9cp11fec5zzk1",
@@ -6704,6 +7011,101 @@
    "Flateby"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7ms7g2deygakjhzy625e029",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Gravplassetaten",
+  "title": "Tillatelse til gravlegging i Enebakk",
+  "party": "*****; Servicekontoret",
+  "case": "Kommunal gravferd",
+  "caseno": "2026/8428",
+  "date": "2026-10-20",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820010.no%2F8ea27333-2d87-4ef3-bdb5-ad36f9f60a40&jid=http%3A%2F%2Fjournalpost.976820010.no%2F5a100f6a-c085-4d93-988c-205776d8ca32",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7ms7d5ve24aed4z022d4c5e",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Gravplassetaten",
+  "title": "Bekreftet urne til Enebakk",
+  "party": "Jølstad Begravelsesbyrå As; Servicekontoret",
+  "case": "Kommunal gravferd",
+  "caseno": "2026/8428",
+  "date": "2026-10-20",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820010.no%2F8ea27333-2d87-4ef3-bdb5-ad36f9f60a40&jid=http%3A%2F%2Fjournalpost.976820010.no%2F48fac03a-82e2-41ce-861a-b739ecf5fc57",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7ms74n1em68dn6d67r3ewzc",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Gravplassetaten",
+  "title": "Mulig urne til Enebakk",
+  "party": "Jølstad Begravelsesbyrå As; Servicekontoret",
+  "case": "Kommunal gravferd",
+  "caseno": "2026/8428",
+  "date": "2026-10-20",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820010.no%2F8ea27333-2d87-4ef3-bdb5-ad36f9f60a40&jid=http%3A%2F%2Fjournalpost.976820010.no%2Fe35d8bef-c471-44ec-82c3-f5990a548b8f",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7ms2085ejh80xkfar20dwkb",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Gravplassetaten",
+  "title": "Rekvisisjon",
+  "party": "Enebakk Sokn; Alfaset krematorium",
+  "case": "Begjæring om gravlegging og/eller kremasjon",
+  "caseno": "2026/8803",
+  "date": "2026-10-20",
+  "published": "2026-11-17",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820010.no%2F402d3c97-5ce5-42f3-9ede-25cc57e15560&jid=http%3A%2F%2Fjournalpost.976820010.no%2Fa5323e39-7fea-4649-9351-6956960e5e3a",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
+ },
+ {
+  "id": "einnsyn:jp_01m7ms1xs9ervvv1w6zga881qg",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Gravplassetaten",
+  "title": "Spørsmål om gravlegging i Enebakk",
+  "party": "*****; Servicekontoret",
+  "case": "Kommunal gravferd",
+  "caseno": "2026/8428",
+  "date": "2026-10-20",
+  "published": "2026-11-17",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976820010.no%2F8ea27333-2d87-4ef3-bdb5-ad36f9f60a40&jid=http%3A%2F%2Fjournalpost.976820010.no%2F92f44966-c2db-45ef-bd93-bc7becc7c199",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-18"
  },
  {
   "id": "einnsyn:jp_01m7821765ebcs0cbcew1ammvc",
