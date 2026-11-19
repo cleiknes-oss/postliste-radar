@@ -1,19 +1,19 @@
 {
- "run": "2026-11-18T09:35+01:00",
+ "run": "2026-11-19T09:51+01:00",
  "sources": [
   {
    "source": "eInnsyn",
    "ok": true,
-   "items": 513,
+   "items": 511,
    "notes": [],
-   "seconds": 91
+   "seconds": 112
   },
   {
    "source": "Stortinget",
    "ok": true,
    "items": 1,
    "notes": [],
-   "seconds": 6
+   "seconds": 7
   }
  ]
 }
