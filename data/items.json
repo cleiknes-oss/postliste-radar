@@ -1,5 +1,81 @@
 [
  {
+  "id": "einnsyn:jp_01m7wb55y6eax89tjfx9hrkd54",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens kartverk",
+  "title": "Tinglysing knr 3220 Enebakk kommune gnr 107 bnr 2, gnr 108 bnr 5, 11, gnr 115 bnr 18, 28, gnr 117 bnr 3 og gnr 125 bnr 1, 2 - Annengangsretur av ikke tinglyst dokument",
+  "party": "*",
+  "case": "Tinglysing knr 3220 Enebakk kommune gnr 107 bnr 2, gnr 108 bnr 5, 11, gnr 115 bnr 18, 28, gnr 117 bnr 3 og gnr 125 bnr 1, 2",
+  "caseno": "2026/39965",
+  "date": "2026-11-18",
+  "published": "2026-11-20",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971040238--39965--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971040238--2026--39965--1--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "einnsyn:jp_01m7w7ehh5e1bvb3gecfhkns6h",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Nærings- og fiskeridepartementet",
+  "title": "Norsk nukleær dekommisjonering (NND) - styringsdialog og budsjett 2027 - utkast til tildelingsbrev for 2027",
+  "party": "Norsk nukleær dekommisjonering; Seksjon for budsjett, styring og nukleær opprydding",
+  "case": "Norsk nukleær dekommisjonering (NND) - styringsdialog og budsjett 2027",
+  "caseno": "2026/7211",
+  "date": "2026-11-17",
+  "published": "2026-11-20",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--912660680--7211--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--912660680--42986--1--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "einnsyn:jp_01m7w7ea13emca2vkzyqjpdx92",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Nærings- og fiskeridepartementet",
+  "title": "Ytterligere informasjon ifm. henvendelse om norsk reaktorteknologi",
+  "party": "Norsk nukleær dekommisjonering; Seksjon for budsjett, styring og nukleær opprydding",
+  "case": "Henvendelse om norsk reaktorteknologi",
+  "caseno": "2026/7014",
+  "date": "2026-11-17",
+  "published": "2026-11-20",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--912660680--7014--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--912660680--42968--6--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "einnsyn:jp_01m7w7dx5jeptseb3k1cwfcs1z",
+  "source_id": "regjeringen",
+  "source_label": "Regjeringen (departementene)",
+  "agency": "Nærings- og fiskeridepartementet",
+  "title": "NND - månedsrapport for oktober 2026",
+  "party": "Norsk nukleær dekommisjonering; Seksjon for budsjett, styring og nukleær opprydding",
+  "case": "Norsk nukleær dekommisjonering (NND) - styringsdialog og budsjett 2026",
+  "caseno": "2025/7657",
+  "date": "2026-11-17",
+  "published": "2026-11-20",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--912660680--7657--2025&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--912660680--42985--82--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
   "id": "einnsyn:jp_01m7vm3yxjecgt7d43exexd0h7",
   "source_id": "akershusfk",
   "source_label": "Akershus fylkeskommune",
@@ -3959,6 +4035,25 @@
   "first_seen": "2026-11-16"
  },
  {
+  "id": "einnsyn:jp_01m7wc3hp8e4n89jeb7qstt76m",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Forhåndsvarsel om pålegg om retting - Haagensen Holding Enebakk AS - godkjenningsnummer 21",
+  "party": "HAAGENSEN HOLDING ENEBAKK AS",
+  "case": "Opplæringsvirksomhet PKK - Haagensen Holding AS - godkjenningsnr 21",
+  "caseno": "2020/15010",
+  "date": "2026-10-31",
+  "published": "2026-11-20",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--15010--2020&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2020--15010--133--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
   "id": "einnsyn:jp_01m6md4fpsevmt72erknayb88p",
   "source_id": "akershusfk",
   "source_label": "Akershus fylkeskommune",
@@ -3996,6 +4091,44 @@
    "Fv. 120"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7wc2tcjec7sww3pyz027ds2",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Vedtak - Forlengelse av tidsbegrenset unntak fra kravet om stedfortreder - Kjøretøyverksted – VY BUSS AS AVD ENEBAKK – 922687390 - 32098",
+  "party": "VY Buss AS avd Enebakk",
+  "case": "Kjøretøyverksted – VY Buss As avd. Enebakk – 976948394",
+  "caseno": "2022/38455",
+  "date": "2026-10-30",
+  "published": "2026-11-20",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--38455--2022&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2022--38455--26--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "einnsyn:jp_01m7wc2q40exj98gtv36rr1xje",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens vegvesen",
+  "title": "Søknad - Forlengelse av tidsbegrenset unntak fra kravet om stedfortreder - Kjøretøyverksted – VY BUSS AS AVD ENEBAKK – 922687390 - 32098",
+  "party": "*",
+  "case": "Kjøretøyverksted – VY Buss As avd. Enebakk – 976948394",
+  "caseno": "2022/38455",
+  "date": "2026-10-30",
+  "published": "2026-11-20",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--971032081--38455--2022&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--971032081--2022--38455--25--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-21"
  },
  {
   "id": "einnsyn:jp_01m7sthhqxezt9wcm0wjepqpkm",
@@ -10955,6 +11088,25 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m7wasa04ew5r67qndzknze56",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Trøndelag fylkeskommune",
+  "title": "Klage på forvaltningsvedtak",
+  "party": "SYKEHUSBYGG HF; Seksjon Kulturminner; Seksjon Kulturminner",
+  "case": "Trondheim kommune - St.Olavs hospital HF - Tiltak i byggene 2109 og 2122, Østmarka - AskeladdenId  148702-8 og 148702-11 - gnr/bnr 413/122",
+  "caseno": "2026/19619",
+  "date": "2026-09-23",
+  "published": "2026-11-20",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--817920632--19619--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--817920632--2026--19619--5--2026",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-21"
  },
  {
   "id": "einnsyn:jp_01m5cnv2n6e868gd8x2m9e401y",
