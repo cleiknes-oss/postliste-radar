@@ -1,5 +1,81 @@
 [
  {
+  "id": "einnsyn:jp_01m82stdxde76rarhandvmg0hb",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Purring - Etterlyser skadevolder i forbindelse med skade på Akershus fylkeskommunes eiendom - Påkjørt rekkverk - Fv. 120 - Smestad - Rælingen kommune - 010225 - PO ID 162",
+  "party": "ØST POLITIDISTRIKT",
+  "case": "Erstatningskrav - Påkjørt rekkverk - Fv. 120 Smestad - Rælingen kommune - 010225 - Kjent skadevolder",
+  "caseno": "2026/28841",
+  "date": "2026-11-18",
+  "published": "2026-11-22",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0710c6b0-3f16-4a91-b1c0-6c464b3ae118&jid=https%3A%2F%2Fprod02.elementscloud.no%2F019e7810-9293-4243-a494-b2af193b43ea",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m82sngd5ekma24z9s8zmw65n",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Enebakk kommune - Fv. 155 - Osloveien - Forespørsel om gangfelt og fartsgrense på 40 km/t - Opprettholder forslaget - anmoder om tilbakemelding",
+  "party": "FAU YTRE ENEBAKK SKOLE",
+  "case": "Enebakk kommune - Fv. 155 - Osloveien - Forespørsel om gangfelt og fartsgrense på 40 km/t",
+  "caseno": "2026/38975",
+  "date": "2026-11-18",
+  "published": "2026-11-22",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F72bd1aeb-401d-465e-8d27-942d294e4b80&jid=https%3A%2F%2Fprod02.elementscloud.no%2Fefd65c94-f20d-4526-9bea-c7b552a965d0",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m82senrhereb8tjqfwm4trm6",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Erstatningskrav - Lysmast - Fv. 120 Jonas Lies gate - Lillestrøm kommune - 270525 - Kjent skadevolder - Dokumentasjon",
+  "party": "SET ELEKTRO AS",
+  "case": "Erstatningskrav - Lysmast - Fv. 120 Jonas Lies gate - Lillestrøm kommune - 270525 - Kjent skadevolder",
+  "caseno": "2026/29725",
+  "date": "2026-11-18",
+  "published": "2026-11-22",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F96f14ea7-a69e-4509-b9f4-608079057a7a&jid=https%3A%2F%2Fprod02.elementscloud.no%2Ffd83c230-c33b-4302-b970-ece0966e26bc",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m82sbrcee8zsff3a6ep6z35w",
+  "source_id": "akershusfk",
+  "source_label": "Akershus fylkeskommune",
+  "agency": "Akershus fylkesråd",
+  "title": "Etterlyser skadevolder i forbindelse med skade på Akershus fylkeskommunes eiendom - Påkjørt lysmast - Fv. 120 Jonas Lies gate - Lillestrøm - 270525 kl 06.15 - PO ID 22",
+  "party": "ØST POLITIDISTRIKT",
+  "case": "Erstatningskrav - Lysmast - Fv. 120 Jonas Lies gate - Lillestrøm kommune - 270525 - Kjent skadevolder",
+  "caseno": "2026/29725",
+  "date": "2026-11-18",
+  "published": "2026-11-22",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F96f14ea7-a69e-4509-b9f4-608079057a7a&jid=https%3A%2F%2Fprod02.elementscloud.no%2Fb339269a-cab5-4d17-a3c4-4530073016d3",
+  "matches": [
+   "Fv. 120"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
   "id": "einnsyn:jp_01m7wb55y6eax89tjfx9hrkd54",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -207,6 +283,44 @@
    "Norsk nukleær dekommisjonering"
   ],
   "first_seen": "2026-11-19"
+ },
+ {
+  "id": "einnsyn:jp_01m82sah28eydady9nm07pbf63",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Sivilombudet",
+  "title": "Svar på klage over manglende innsyn",
+  "party": "##### ##### ####_",
+  "case": "Manglende svar - Innsyn - All kommunikasjon om Kopåsveien 7 - Enebakk kommune",
+  "caseno": "2026/7543",
+  "date": "2026-11-16",
+  "published": "2026-11-22",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Feinnsyn.sivilombudet.no%2Fed70e565-42af-4109-a5ea-8508dfdd01c5&jid=https%3A%2F%2Feinnsyn.sivilombudet.no%2Fd0f08b00-1c84-4ac5-ab47-23e09342d497",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m82rev9yefyrj2q4c5hnr7wb",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for samfunnssikkerhet og beredskap",
+  "title": "Spørsmål om ettersending av kursbevis – Forebyggendekurs 2027",
+  "party": "FOLLO BRANNVESEN IKS",
+  "case": "Brann- og redningsskolen - generelle henvendelser - 2026",
+  "caseno": "2026/20",
+  "date": "2026-11-16",
+  "published": "2026-11-22",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod01.elementscloud.no%2Fce80a651-9e42-4ae3-8b19-0a719556ca4a&jid=https%3A%2F%2Fprod01.elementscloud.no%2Fbb770b79-3751-4044-8989-acd1af9b3d62",
+  "matches": [
+   "Follo brannvesen"
+  ],
+  "first_seen": "2026-11-23"
  },
  {
   "id": "einnsyn:jp_01m7rf8d6jenxbx9pss8j5dbvs",
@@ -1546,6 +1660,120 @@
    "Østmarka"
   ],
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "einnsyn:jp_01m83d6r5ben2s377k64kjd1za",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Innvilget tilskudd - Elektrisk gravemaskin og kvern ved ROAF IKS - Rælingen - Klimasats - støtte til klimasatsing i kommunene 2026",
+  "party": "MILJØDIREKTORATET",
+  "case": "Klimasats - støtte til klimasatsing i kommunene 2026",
+  "caseno": "2025/49531",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--974761319--49531--2025&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F561938df-13cd-4fe1-9cdd-bceaf2d4fd78",
+  "matches": [
+   "ROAF"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m8374syzee9sfmc236f35z66",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Oversender henvendelse for oppfølging - Kommunehelsetjeneste - behandling - ***** ***** ***** ***** ***** ***** *****",
+  "party": "Enebakk kommune att. kommunedirektør",
+  "case": "Kommunehelsetjeneste - behandling - ***** ***** ***** ***** ***** ***** *****",
+  "caseno": "2026/42619",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F154805f9-f14d-428b-8a8a-b57e3756d49e&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F4e78199f-082b-4eca-a204-3ee2880559f6",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m836e54fex39evg3v09adq1p",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Svar på hendendelse - Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "party": "Øst politidistrikt",
+  "case": "Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "caseno": "2026/21224",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F9f0172c0-edee-43df-895c-e80c30485c47&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F2dad06f5-7683-44ac-9bf9-eab70edf1d86",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m83259wde0nvphwv9pfwh4t8",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Til pårørende - utenfor meldeordningen - Melding om alvorlig hendelse - Enebakk kommune - ***** ***** ***** ***** *****",
+  "party": "####_",
+  "case": "Melding om alvorlig hendelse - Enebakk kommune - ***** ***** ***** ***** *****",
+  "caseno": "2026/45913",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2Fd8ee24e4-ed4a-4ad6-b446-35d29f9d8540&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F4ca2ed44-a09c-44c9-b40a-4a6f74956db3",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m831w4vneaw9arh2nr6kgq37",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Svar på henvendelse - Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "party": "####_",
+  "case": "Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "caseno": "2026/21224",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F9f0172c0-edee-43df-895c-e80c30485c47&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F6e1a219e-fb3c-4ae5-b37a-0d8df50cb813",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "einnsyn:jp_01m82w8b55ejv87jhyn9fpfym9",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Avslutning av sak - Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "party": "Nordre Follo kommune Att. leder legevakten",
+  "case": "Spesialisthelsetjeneste - behandling - Akershus universitetssykehus HF - DPS Nedre Romerike - DPS Follo - ARA Follo - Ski legevakt - Enebakk kommune - ***** ***** ***** ***** *****",
+  "caseno": "2026/21224",
+  "date": "2026-11-09",
+  "published": "2026-11-23",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F9f0172c0-edee-43df-895c-e80c30485c47&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F514839fb-2764-4b25-be66-c5d825be618b",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-23"
  },
  {
   "id": "einnsyn:jp_01m7nr9m5tem2rj86m9wsw9gd4",
