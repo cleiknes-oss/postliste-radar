@@ -1,5 +1,119 @@
 [
  {
+  "id": "einnsyn:jp_01m8dty1t9ermt46jawyq7a36t",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Mattilsynet",
+  "title": "Høring og offentlig ettersyn av detaljreguleringsplan for Sagstua – Ytre Enebakk sentrum, Enebakk kommune",
+  "party": "Enebakk kommune",
+  "case": "Enebakk kommune - Mogam Eiendom AS - Detaljregulering for Sagstua - Ytre Enebakk sentrum - Plan-ID 20250002",
+  "caseno": "2025/85362",
+  "date": "2026-11-24",
+  "published": "2026-11-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6f42b6a4-1f2d-47e3-9d26-32276383b160&jid=https%3A%2F%2Fprod02.elementscloud.no%2Fdce97275-0aff-426a-9932-dd44e1c3dd28",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8d3246jergag2xawvwnwhgj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Fredrikstad kommune",
+  "title": "Lønnsnivå for ansatte innen brannforebyggende arbeid Follo Brannvesen IKS",
+  "party": "FOLLO BRANNVESEN IKS",
+  "case": "Lønnsnivå for ansatte innen brannforebyggende arbeid",
+  "caseno": "2026/32523",
+  "date": "2026-11-24",
+  "published": "2026-11-26",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Feinnsyn.fredrikstad.kommune.no%2F920eb053-e4fc-4791-9c32-89a7c07d2a30&jid=https%3A%2F%2Feinnsyn.fredrikstad.kommune.no%2Fa3c87332-7832-4422-a439-e82b423abe59",
+  "matches": [
+   "Follo brannvesen"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8bt59gte7p8zayme5smsa8f",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Statens jernbanetilsyn",
+  "title": "Egenmelding 2026",
+  "party": "ENEBAKK IDRETTSFORENING; Tilsyn",
+  "case": "Egenmelding for alle taubanevirksomheter 2026",
+  "caseno": "2026/1407",
+  "date": "2026-11-24",
+  "published": "2026-11-26",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.979363974.no%2F6de25720-0356-4f21-8b7e-01b086b2e47f&jid=http%3A%2F%2Fjournalpost.979363974.no%2Fdabfb087-976e-4418-a56e-bf4a79d348cb",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8e50sz8eqh8dghhje8acpy6",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Byrådsavdelingene",
+  "title": "Sakspapirer skolestyremøte Østmarka skole 26.11.26",
+  "party": "Østmarka Skole; Seksjon for skole og barnehage",
+  "case": "Styremøter ved Østmarka skole",
+  "caseno": "2022/4039",
+  "date": "2026-11-23",
+  "published": "2026-11-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.976819837.no%2F7ffe778d-149c-4359-ac21-9c6752379182&jid=http%3A%2F%2Fjournalpost.976819837.no%2F5ca1d351-f5e1-4c26-a6ed-7d0a0b7ace72",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8e2h4g1e5d99epqty83ffg4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Eiendoms- og byfornyelsesetaten",
+  "title": "Kjøpekontrakt - Skogeiendom Oslo / Østmarka (30-0082/26)",
+  "party": "Tegneby & Grønnerød Landbruksmegling AS; Kjøp- og salgsseksjonen",
+  "case": "Gnr./bnr. 113/1 og 105/379 - Kjøpssak",
+  "caseno": "2026/960",
+  "date": "2026-11-23",
+  "published": "2026-11-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.874780782.no%2F759eb6cf-24bf-4e2d-bff0-f841216b2ea4&jid=http%3A%2F%2Fjournalpost.874780782.no%2F2f2f7c2e-cab1-448d-9e5d-856c444e6bae",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8bxqnj5e33bc4stnw6dttxk",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Bymiljøetaten",
+  "title": "Søknad om kjøretillatelse på Oslo kommunes skogsbilveier - Nordmarka, Østmarka - Alle veier - 27.11.2026-31.12.2027",
+  "party": "Skiforeningen - Foreningen til Ski-Idrettens Fremme; Skog og friluft nord",
+  "case": "Søknad om kjøretillatelse på Oslo kommunes skogsbilveier - 2026",
+  "caseno": "2026/10346",
+  "date": "2026-11-23",
+  "published": "2026-11-26",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.996922766.no%2F7b5cc93c-cb0f-4888-a831-01b8dcd548af&jid=http%3A%2F%2Fjournalpost.996922766.no%2F01ea13de-b8df-4008-bd8b-4ed22a85a981",
+  "matches": [
+   "Østmarka"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
   "id": "einnsyn:jp_01m8bfj3mrea0bh5kh6rbttfcz",
   "source_id": "regjeringen",
   "source_label": "Regjeringen (departementene)",
@@ -229,6 +343,25 @@
   "first_seen": "2026-11-26"
  },
  {
+  "id": "einnsyn:jp_01m8bqvdx0e9aa2hkk7w3m4tkv",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Eiendoms- og byfornyelsesetaten",
+  "title": "Enebakk kommune - gnr.7bnr. 126/1 og 2 - Oversendelse av meldinger fra Glitre Nett AS om kvisting langs høyspentlinje",
+  "party": "Bymiljøetaten; Tomteseksjonen",
+  "case": "Knr./gnr./bnr. 3220/126/1 og 126/2 - helikopterkvisting",
+  "caseno": "2026/4799",
+  "date": "2026-11-20",
+  "published": "2026-11-26",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fsaksmappe.874780782.no%2F49b411a0-a59c-4240-956d-28fcfe26260e&jid=http%3A%2F%2Fjournalpost.874780782.no%2F6c184b38-af3e-41cd-a1e7-558d3acb3049",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
   "id": "einnsyn:jp_01m8900jjcer0916tmne2n4xxq",
   "source_id": "einnsyn_andre",
   "source_label": "Andre offentlige virksomheter (eInnsyn)",
@@ -381,6 +514,44 @@
    "Norsk nukleær dekommisjonering"
   ],
   "first_seen": "2026-11-24"
+ },
+ {
+  "id": "einnsyn:jp_01m8e1vsbke31bpv4je1vk12sa",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Svar på høringen angående søknaden om tillatelse for et atomanlegg ved Kjeller",
+  "party": "Swedish Radiation Safety Authority",
+  "case": "Høring av søknad fra Norsk nukleær dekommisjonering (NND) om konsesjon for atomanlegg på Kjeller",
+  "caseno": "2026/2703",
+  "date": "2026-11-19",
+  "published": "2026-11-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--2703--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--2703--18--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8e1vrtmer18nm25nsc6q0gj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Høringsuttalelse - Høring av søknad fra NND om konsesjon for atomanlegg på Kjeller",
+  "party": "LILLESTRØM KOMMUNE",
+  "case": "Høring av søknad fra Norsk nukleær dekommisjonering (NND) om konsesjon for atomanlegg på Kjeller",
+  "caseno": "2026/2703",
+  "date": "2026-11-19",
+  "published": "2026-11-27",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--2703--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--2703--19--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-27"
  },
  {
   "id": "einnsyn:jp_01m8bdyckaedysr79y7nb7af7q",
@@ -670,6 +841,120 @@
    "Enebakk"
   ],
   "first_seen": "2026-11-24"
+ },
+ {
+  "id": "einnsyn:jp_01m8c781dme9j8wejp9c39q0qz",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Veiledningsmøte 19.nov - Forespørsel om veiledning ifm. søknad om godkjenning etter strålevernforskriften på Kjeller",
+  "party": "NORSK NUKLEÆR DEKOMMISJONERING",
+  "case": "NND - Veiledningsmøter og kontaktmøter i 2026",
+  "caseno": "2026/89",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--89--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--89--29--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8c77t4deybaxp2q7228yf53",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Endelig referat etter møte i sikkerhetskomiteen den 28.oktober 2026",
+  "party": "NORSK NUKLEÆR DEKOMMISJONERING",
+  "case": "Norsk Nukleær Dekommisjonering (NND) - Sikkerhetskomiteen -  2026",
+  "caseno": "2025/3697",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--3697--2025&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2025--3697--3--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8c77nq8e1rrta46q6vm31zb",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Høring av søknad om tillatelse til lagring av radioaktivt avfall i Met. lab. II, IFE NUK Kjeller",
+  "party": "9 mottakere",
+  "case": "Søknad om tillatelse for Avfallshåndtering - atom - INSTITUTT FOR ENERGITEKNIKK STI",
+  "caseno": "2026/3028",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--3028--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--3028--2--2026",
+  "matches": [
+   "radioaktivt avfall"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8c77kgtebma1g7mcbfpd7w5",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Tilbakemelding på høringsinnspill konsesjonssøknad Kjeller fra NND",
+  "party": "Myndighetskommunikasjon NND",
+  "case": "Høring av søknad fra Norsk nukleær dekommisjonering (NND) om konsesjon for atomanlegg på Kjeller",
+  "caseno": "2026/2703",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Inngående",
+  "direction": "I",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--2703--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2026--2703--13--2026",
+  "matches": [
+   "Norsk nukleær dekommisjonering"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8c77h1gever0s5x0wx9mky4",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Direktoratet for strålevern og atomsikkerhet",
+  "title": "Tilbakemelding på spørsmål angående ny produksjonsprosess, Agilera Pharma AS",
+  "party": "AGILERA PHARMA AS",
+  "case": "Agilera Pharma AS - Søknad om tillatelse til radioaktivt utslipp og mellomlagring av radioaktivt avfall",
+  "caseno": "2024/1715",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--867668292--1715--2024&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--867668292--2024--1715--13--2026",
+  "matches": [
+   "radioaktivt avfall"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8bveab9ed59akmspa5akvvj",
+  "source_id": "einnsyn_andre",
+  "source_label": "Andre offentlige virksomheter (eInnsyn)",
+  "agency": "Folkehelseinstituttet",
+  "title": "26/03489-1146 - Vaksinegjennomgang",
+  "party": "ENEBAKK KOMMUNE",
+  "case": "Vaksinerådgivning - Henvendelser fra helsepersonell, kommuner, fylkeskommuner, bedrifter, foreninger m.fl. - 2. halvår (juli - desember) - 2026 - Samlesak",
+  "caseno": "2026/3489",
+  "date": "2026-11-18",
+  "published": "2026-11-26",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FSaksmappe--983744516--3489--2026&jid=http%3A%2F%2Fdata.einnsyn.no%2Fnoark4%2FJournalpost--983744516--2026--3489--1153--2026",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
  },
  {
   "id": "einnsyn:jp_01m89fxhb1ejmbjhe4sc4pdkte",
@@ -1527,6 +1812,44 @@
    "Follo brannvesen"
   ],
   "first_seen": "2026-11-17"
+ },
+ {
+  "id": "einnsyn:jp_01m8ddjvp9e8w9ex4afwef3ryn",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Svar på klage - Klage - Nav Enebakk - ***** ***** ***** *****",
+  "party": "####_",
+  "case": "Klage - Nav Enebakk - ***** ***** ***** *****",
+  "caseno": "2026/50001",
+  "date": "2026-11-13",
+  "published": "2026-11-27",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F464075aa-0283-43c2-bfb2-3ac2794b6e3b&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F6110298e-dce8-4f32-9756-0e1d95b2e223",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "einnsyn:jp_01m8d6d38fev3ty7tgnmntvw6w",
+  "source_id": "statsforvalteren",
+  "source_label": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "agency": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+  "title": "Oversendelse av klage til rett instans - Klage - Nav Enebakk - ***** ***** ***** *****",
+  "party": "NAV Enebakk",
+  "case": "Klage - Nav Enebakk - ***** ***** ***** *****",
+  "caseno": "2026/50001",
+  "date": "2026-11-13",
+  "published": "2026-11-27",
+  "doctype": "Utgående",
+  "direction": "U",
+  "url": "https://einnsyn.no/saksmappe?id=https%3A%2F%2Fpublikum.statsforvalteren.no%2F464075aa-0283-43c2-bfb2-3ac2794b6e3b&jid=https%3A%2F%2Fpublikum.statsforvalteren.no%2F271ed89f-e997-4e56-9c87-8abd4f4ae8f3",
+  "matches": [
+   "Enebakk"
+  ],
+  "first_seen": "2026-11-27"
  },
  {
   "id": "einnsyn:jp_01m7vms1krem5th4vx28tcwbpm",
